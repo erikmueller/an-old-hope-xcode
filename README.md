@@ -1,6 +1,6 @@
 # an-old-hope-xcode
 
-A port of [https://github.com/jesseleite/an-old-hope-syntax-atom](Jesse Leite's Atom syntax) theme for xcode
+A port of [Jesse Leite's Atom syntax](https://github.com/jesseleite/an-old-hope-syntax-atom) theme for xcode
 
 ![Preview: An old hope syntax](./preview.png)
 
